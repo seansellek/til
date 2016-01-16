@@ -11,7 +11,7 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'http://my-ghost-blog.com',
+        url: 'http://til.seansellek.com',
         mail: {},
         database: {
             client: 'sqlite3',
@@ -26,6 +26,7 @@ config = {
             port: '2368'
         }
     },
+
 
     // ### Development **(default)**
     development: {

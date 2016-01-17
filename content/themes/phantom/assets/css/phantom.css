@@ -118,7 +118,7 @@ strong {
 .sidebar {
 	position:absolute;
 	left:-190px;
-	width:130px;
+/* 	width:130px; */
 }
 .comments, footer {
 	padding:120px 0;
@@ -411,7 +411,7 @@ header .share a {
 	max-width: 540px;
 	margin: 10px auto 0;
 	position: relative;
-	font-size: 25px;
+	font-size: 23px;
 }
 @media (max-width: 992px) {
 	.container, .pagination {
